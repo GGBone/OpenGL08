@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "绘制一个完整字体", "绘制一个完整字体\绘制一个完整字体.vcxproj", "{6354FBC2-29FE-45B7-B477-8C0525A5F0C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复制绘制缩放像素数据", "复制绘制缩放像素数据\复制绘制缩放像素数据.vcxproj", "{44FA6A23-4FFC-4D78-BF14-E9034401C07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6354FBC2-29FE-45B7-B477-8C0525A5F0C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6354FBC2-29FE-45B7-B477-8C0525A5F0C9}.Debug|Win32.Build.0 = Debug|Win32
+		{6354FBC2-29FE-45B7-B477-8C0525A5F0C9}.Release|Win32.ActiveCfg = Release|Win32
+		{6354FBC2-29FE-45B7-B477-8C0525A5F0C9}.Release|Win32.Build.0 = Release|Win32
+		{44FA6A23-4FFC-4D78-BF14-E9034401C07E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44FA6A23-4FFC-4D78-BF14-E9034401C07E}.Debug|Win32.Build.0 = Debug|Win32
+		{44FA6A23-4FFC-4D78-BF14-E9034401C07E}.Release|Win32.ActiveCfg = Release|Win32
+		{44FA6A23-4FFC-4D78-BF14-E9034401C07E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
